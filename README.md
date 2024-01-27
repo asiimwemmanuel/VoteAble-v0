@@ -36,7 +36,7 @@ VoteAble is here to empower students and amplify their voices. Join us in shapin
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/voteable.git
+    git clone https://github.com/asiimwemmanuel/voteable.git
     ```
 
 2. **Install Dependencies:**
